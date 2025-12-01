@@ -1,5 +1,7 @@
 body
 {
+    display: flex;
+    justify-content: center;
     background-color: #a6a6a6;
     margin: 0;
     color: #1b5dac;
