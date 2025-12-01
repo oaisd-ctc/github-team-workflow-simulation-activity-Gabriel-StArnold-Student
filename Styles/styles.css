@@ -28,3 +28,10 @@ body
     color: #550404;
     transition: .1s;
 }
+
+.box
+{
+    background-color: #5b5b5b;
+    border: 3px solid black;
+    border-radius: 10%;
+}
